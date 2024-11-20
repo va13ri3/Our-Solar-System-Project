@@ -1,0 +1,47 @@
+h1 {
+   color: rgb(14, 0, 102);
+}
+
+.Mercury {
+    color: saddlebrown;
+    font-family:'Papyrus';
+}
+
+.Venus {
+    color: peru;
+    font-family:'Papyrus';
+}
+
+.Earth {
+    color: mediumturquoise;
+    font-family:'Papyrus';
+}
+
+.Mars {
+    color: indianred;
+    font-family:'Papyrus';
+}
+
+.Jupiter {
+    color: sandybrown;
+    font-family:'Papyrus';
+}
+
+.Saturn {
+    color: goldenrod;
+    font-family:'Papyrus';
+}
+
+.Uranus {
+    color: turquoise;
+    font-family:'Papyrus';
+}
+
+.Neptune {
+    color: steelblue;
+    font-family:'Papyrus';
+}
+
+.M {
+    color: saddlebrown;
+}
